@@ -19,7 +19,7 @@ imageio==2.4.1
 mailchecker==3.2.17
 moviepy==0.2.3.5
 numpy==1.16.1
-Pillow==5.4.1
+Pillow==8.2.0
 py==1.4.34
 PyJWT==1.7.1
 pyparsing==2.3.1
